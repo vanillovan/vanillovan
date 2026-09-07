@@ -1,0 +1,21 @@
+h1{
+    font-size: 85px;
+    color: aliceblue;
+    text-align: center;
+}
+body{
+    background-color: black;
+    
+}
+img{
+    width: 450px;
+    height: 450px;
+    display: block;
+    margin: 0 auto;
+}
+p{  
+    width: 400px;
+    font-size: 40px;
+    color: aliceblue;
+     margin: 0 auto;
+}
